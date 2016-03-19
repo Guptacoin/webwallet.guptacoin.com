@@ -1,10 +1,10 @@
 {
-  "name": "hive-launch",
-  "description": "Hive Launch Site",
+  "name": "Auroracoin Webwallet",
+  "description": "Aurracoin Webwalet",
   "version": "0.1.0",
   "author": {
-    "name": "Hive",
-    "url": "http://hivewallet.com"
+    "name": "Aurora Web",
+    "url": "http://webwallet.auroracoin.is"
   },
   "engines": {
     "node": ">=0.8"
