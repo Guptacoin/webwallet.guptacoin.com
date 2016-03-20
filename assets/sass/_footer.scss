@@ -59,14 +59,14 @@
     border-bottom-left-radius: 5px;
     padding-left: 10px;
     padding-top: 5px;
-    color: $foreground;
+    color: $white;
     width: 70%;
     float: left;
     height: 60px;
 
     &:focus {
       outline: none;
-      border: 1px solid $foreground;
+      border: 1px solid $white;
     }
   }
 
@@ -124,7 +124,7 @@
 .donate {
   font-size: 14px;
   display: block;
-  color: $foreground;
+  color: $white;
 
   @include breakpoint(portrait) {
     font-size: 16px;
