@@ -54,14 +54,14 @@
   margin: 0 auto;
   input {
     -webkit-appearance: none;
-    background-color: $yellow;
-    border: 1px solid darken($yellow, 20%);
+    background-color: $white;
+    border: 1px solid darken($white, 20%);
     border-radius: 0;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     padding-left: 10px;
     padding-top: 5px;
-    color: $white;
+    color: $yellow;
     width: 70%;
     float: left;
     height: 60px;
