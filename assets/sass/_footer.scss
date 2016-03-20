@@ -55,13 +55,13 @@
   input {
     -webkit-appearance: none;
     background-color: $white;
-    border: 1px solid darken($white, 20%);
+    border: 1px solid darken($yellow, 20%);
     border-radius: 0;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     padding-left: 10px;
     padding-top: 5px;
-    color: $yellow;
+    color: $white;
     width: 70%;
     float: left;
     height: 60px;
@@ -78,7 +78,7 @@
     height: 60px;
     float: left;
     background-color: $orange;
-    border: 1px solid darken($white, 20%);
+    border: 1px solid darken($yellow, 20%);
     border-radius: 0;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
