@@ -1,6 +1,6 @@
 
 
-# webwallet.auroracoin.com
+# webwallet.guptacoin.com
 
 ## Static build
 - [Assemble](http://assemble.io/) (.hbs)
